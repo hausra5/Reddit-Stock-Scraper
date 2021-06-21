@@ -1,2 +1,2 @@
 # Reddit-Stock-Scrapper
-In this repository I will be including examples in Jupyter Notebook of a Reddit Stock Scrapper program that I created.  
+In this repository I will be including examples in Jupyter Notebook of a Reddit Stock Scrapper program that I created.  The program scrapes either Threads or Subreddits and compiles a main Dataframe of comments or titles.  It then counts each ticker that is discussed and display's the Top 20 most discussed Stocks.  The stock ticker count is then also saved as a separate dataframe.
